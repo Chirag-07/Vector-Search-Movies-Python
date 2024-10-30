@@ -9,4 +9,8 @@
 
 # Ignore Virtual Environment
 vsmpy-env/
+build/
+dist/
 
+# Ignore build file
+langchain_movie_search.spec
