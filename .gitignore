@@ -1,0 +1,12 @@
+# IDE Settings
+*.pyc
+.vscode
+.gradio
+.idea
+
+# Ignore environment file
+.env
+
+# Ignore Virtual Environment
+vsmpy-env/
+
