@@ -117,7 +117,7 @@ class MoviesSearch:
 
             button.click(fn=self.query_data, inputs=textbox, outputs=[output])
 
-        v_search.launch(share=False)
+        v_search.launch(share=True)
 
     def close_client(self):
         self.client.close()
