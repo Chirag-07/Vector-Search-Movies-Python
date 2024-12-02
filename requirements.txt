@@ -107,7 +107,7 @@ pillow==10.4.0
 pydub==0.25.1
 pygments==2.18.0
 python-dateutil==2.9.0.post0
-python-multipart==0.0.12
+python-multipart==0.0.18
 pytz==2024.2
 rich==13.9.3
 ruff==0.7.1
